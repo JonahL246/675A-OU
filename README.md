@@ -1,8 +1,8 @@
 ---
-title: 675A Worlds Code
+title: 675A Overunder Code
 ---
 
-[![Build](https://github.com/nikgajjar51/675A-SU-Worlds/actions/workflows/main.yml/badge.svg)](https://github.com/nikgajjar51/675A-SU-Worlds/actions/workflows/main.yml)
+
 
 # Team 675A
 
